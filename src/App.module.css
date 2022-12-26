@@ -1,0 +1,15 @@
+.wrapper {
+    max-width: 46rem;
+    margin: 0rem auto;
+
+    /* max-width: 70rem;
+    margin: 2rem auto;
+    padding: 0 1rem; */
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+    html {
+        font-size: 87.5%;
+    }
+}
