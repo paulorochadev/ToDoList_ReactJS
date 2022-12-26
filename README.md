@@ -44,8 +44,8 @@ Serão desenvolvidadas:
 
 ## :art: Layout
 
-![ToDoList_ReajJS](https://github.com/paulorochadev/ToDoList_ReactNative/blob/master/assets/todolist-projeto-empty.svg)
-![ToDoList_ReajJS](https://github.com/paulorochadev/ToDoList_ReactNative/blob/master/assets/todolist-projeto-tasks.svg)
+![alt text](https://github.com/paulorochadev/ToDoList_ReactJS/blob/main/src/assets/todolist-projeto-empty.svg)
+![alt text](https://github.com/paulorochadev/ToDoList_ReactJS/blob/main/src/assets/todolist-projeto-tasks.svg)
 
 
 ## :open_file_folder: Como baixar o projeto
